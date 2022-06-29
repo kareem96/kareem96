@@ -26,16 +26,16 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem96&theme=solarized_dark)
-
 ## GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem96&theme=solarized_dark)
+## Github Profile Summary Card
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark)
+
+## Top Languages
 <p align="center">
      <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kareem96&theme=solarized_dark" />
      <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kareem96&theme=solarized_dark" />
 </p>
-
-## Github Profile Summary Card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark)
 
 
 <!---
