@@ -28,8 +28,8 @@
 
 ## GitHub Stats
 <p align="center">
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kareem96&theme=solarized_dark" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem96&theme=vue" />
+     <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem96&theme=solarized_dark" />
+     <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kareem96&theme=solarized_dark" />
 </p>
 
 ## Github Profile Summary Card
