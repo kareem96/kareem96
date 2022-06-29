@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
      email: ak339444@gmail.com
-
-
-<!-- ## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=kareem96&count_private=true&show_icons=true&theme=radical) -->
+     
 
 ## 💻 Tech Stack
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -30,13 +27,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-## 📟 GitHub Stats
+## GitHub Stats
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kareem96&show_icons=true&theme=vue" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem96&theme=vue" />
 </p>
 
-## 💳 Github Profile Summary Card
+## Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=vue"/>
 </p>
