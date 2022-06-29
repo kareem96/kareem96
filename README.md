@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kareem96
 - 👀 I’m interested in Mobile Developer Enthusiast
-- 🌱 I’m currently learning Kotlin and Fultter
+- 🌱 I’m currently learning Kotlin and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
      email: ak339444@gmail.com
