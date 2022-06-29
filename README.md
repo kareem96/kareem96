@@ -6,19 +6,20 @@
      email: ak339444@gmail.com
 
 
-## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=kareem96&count_private=true&show_icons=true&theme=radical)
+<!-- ## Github Stats  
+![](https://github-readme-stats.vercel.app/api?username=kareem96&count_private=true&show_icons=true&theme=radical) -->
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kareem96&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem96&theme=vue" />
+</p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=vue"/>
 </p>
 
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kareem96&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem96&theme=vue" />
-</p>
+
 
 <!---
 kareem96/kareem96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
