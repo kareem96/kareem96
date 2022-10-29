@@ -6,7 +6,7 @@
      email: ak339444@gmail.com
      
 
-## 💻 Tech Stack
+<!-- ## 💻 Tech Stack
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -15,7 +15,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Androidstudio](https://img.shields.io/badge/Androidstudio-23430098?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Visualstudio](https://img.shields.io/badge/Visualstudio-%2302569B.svg?style=for-the-badge&logo=Visualstudio&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
 ## GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem96&theme=solarized_dark)
