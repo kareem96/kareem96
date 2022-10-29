@@ -19,8 +19,8 @@
 
 ## GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem96&theme=solarized_dark)
-## Github Profile Summary Card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark)
+<!-- ## Github Profile Summary Card
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark) -->
 
 ## Top Languages
 <p align="center">
