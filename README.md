@@ -1,5 +1,7 @@
 # Hey There! 👋
 I'm Kareem - I'm a Junior Mobile Developer, I'm so anthusiast in Android Kotlin and Dart/Flutter.
+- 📫 How to reach me ... 
+     email: ak339444@gmail.com
 <!-- Presently, I'm developing Software & apps with Flutter, You can see my portfolio on <a href="https://instagram.com/@codewithflexz"> Instagram.</a> -->
 ### 💻 Tech Stack:
 <a href="#">
