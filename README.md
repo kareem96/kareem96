@@ -65,12 +65,12 @@ I'm Kareem - I'm a Junior Mobile Developer, I'm so anthusiast in Android Kotlin 
 
 <!-- ## Github Profile Summary Card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark) -->
-<!-- 
+
 ## Top Languages
 <p align="center">
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kareem96&theme=solarized_dark" />
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kareem96&theme=solarized_dark" />
-</p> -->
+</p>
 
 
 <!---
