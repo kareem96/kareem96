@@ -23,7 +23,6 @@ I'm Kareem - I'm a Junior Mobile Developer, I'm so anthusiast in Android Kotlin 
  <summary> <h3>Github Stats <h3>🔥🚀</summary>
       
 ![](https://github-readme-stats.vercel.app/api?username=kareem96&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-      
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kareem96&theme=tokyonight&hide_border=false)<br/>
 </details>
 
