@@ -71,8 +71,8 @@ I'm Kareem - I'm a Junior Mobile Developer, I'm so anthusiast in Android Kotlin 
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kareem96&theme=solarized_dark" />
 </p>
 
-
+<!-- 
 -
 kareem96/kareem96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--
+- -->
