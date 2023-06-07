@@ -19,12 +19,12 @@ I'm Kareem - I'm a Junior Mobile Developer, I'm so anthusiast in Android Kotlin 
   <a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" height="50" /></a> -->
  
   
-<details>
+<!-- <details>
  <summary> <h3>Github Stats <h3>🔥🚀</summary>
     
 ![](https://github-readme-stats.vercel.app/api?username=kareem96&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kareem96&theme=tokyonight&hide_border=false)<br/>
-</details>
+</details> -->
 
 <!-- ![status](https://camo.githubusercontent.com/ad8ea6fc9da53ab080110622c5b283bc938578fb067b05059d91aab2883fce4b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616d6972626179617430266c6162656c3d50726f66696c65253230766965777326636f6c6f723d383034326663267374796c653d706c6173746963) -->
 
@@ -52,10 +52,10 @@ I'm Kareem - I'm a Junior Mobile Developer, I'm so anthusiast in Android Kotlin 
 ![Visualstudio](https://img.shields.io/badge/Visualstudio-%2302569B.svg?style=for-the-badge&logo=Visualstudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
-<!-- ## GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem96&theme=solarized_dark) -->
-<!-- ## Github Profile Summary Card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark) -->
+## GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem96&theme=solarized_dark)
+## Github Profile Summary Card
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark)
 <!-- 
 ## Top Languages
 <p align="center">
