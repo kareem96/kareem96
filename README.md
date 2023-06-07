@@ -52,10 +52,19 @@ I'm Kareem - I'm a Junior Mobile Developer, I'm so anthusiast in Android Kotlin 
 ![Visualstudio](https://img.shields.io/badge/Visualstudio-%2302569B.svg?style=for-the-badge&logo=Visualstudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
+<details>
+ <summary> <h3>Github Stats <h3>🔥🚀</summary>
+    
+![](https://github-readme-stats.vercel.app/api?username=kareem96&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kareem96&theme=tokyonight&hide_border=false)<br/>
+</details>
+
 ## GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem96&theme=solarized_dark)
-## Github Profile Summary Card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark)
+
+
+<!-- ## Github Profile Summary Card
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem96&theme=solarized_dark) -->
 <!-- 
 ## Top Languages
 <p align="center">
