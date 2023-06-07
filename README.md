@@ -55,8 +55,16 @@ I'm Kareem - I'm a Junior Mobile Developer, I'm so anthusiast in Android Kotlin 
 <details>
  <summary> <h3>Github Stats <h3>🔥🚀</summary>
     
-![](https://github-readme-stats.vercel.app/api?username=kareem96&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=kareem96&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kareem96&theme=tokyonight&hide_border=false)<br/>
+
+## GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem96&theme=solarized_dark)
+## Top Languages
+<p align="center">
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kareem96&theme=solarized_dark" />
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kareem96&theme=solarized_dark" />
+</p>
 </details>
 
 ## GitHub Stats
