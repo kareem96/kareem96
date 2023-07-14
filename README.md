@@ -7,6 +7,8 @@ I'm Kareem - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Ko
 <a href="#">
     <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,postman,git,github&theme=dark" />
   </a>
+
+  [![An image of @kareem96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kareem96)](https://holopin.io/@kareem96)
   
 <!-- ### 🌐 Socials:
 <a href="https://instagram.com/codewithflexz">
