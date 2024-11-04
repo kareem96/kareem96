@@ -1,11 +1,14 @@
 # Hey There! 👋
-I'm Kareem - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Kotlin and Dart/Flutter.
+I'm Kareem - Dedicated Mobile Developer with over 3 years of experience, specializing in Kotlin and Flutter.
+Passionate about building intuitive, high-quality mobile applications and currently expanding my
+expertise into backend development. Skilled in writing clean, maintainable code and
+continuously improving through self-learning and collaboration.
 - 📫 How to reach me ... 
      email: ak339444@gmail.com
 <!-- Presently, I'm developing Software & apps with Flutter, You can see my portfolio on <a href="https://instagram.com/@codewithflexz"> Instagram.</a> -->
 ### 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=kotlin,golang,dart,flutter,firebase,androidstudio,postman,git,mockoon,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,golang,dart,flutter,firebase,androidstudio,postman,git,github&theme=dark" />
   </a>
 
   [![An image of @kareem96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kareem96)](https://holopin.io/@kareem96)
