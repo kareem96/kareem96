@@ -5,7 +5,7 @@ I'm Kareem - I'm a Mobile Developer Enthusiasts, I'm so anthusiast in Android Ko
 <!-- Presently, I'm developing Software & apps with Flutter, You can see my portfolio on <a href="https://instagram.com/@codewithflexz"> Instagram.</a> -->
 ### 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,firebase,androidstudio,postman,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,golang,dart,flutter,firebase,androidstudio,postman,git,github&theme=dark" />
   </a>
 
   [![An image of @kareem96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kareem96)](https://holopin.io/@kareem96)
